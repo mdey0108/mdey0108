@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @mdey0108
+- 👋 Hi, I’m Mahesh Kumar Dey
+- 💼 Working in Cognizant Technology Solution as Production Support Engineer.
 - 👀 I’m interested in Web development, Android Apps and Cyber Security .
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently learning cloud and Gen AI.
 - 💞️ I’m looking to collaborate
 - 📫 you can reach me on https://instagram.com/dev_loafer 
 
